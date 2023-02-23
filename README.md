@@ -9,6 +9,10 @@
 
 ## About <a name = "about"></a>
 
+## Example of screenshot
+
+<img src="example.png" alt="screenshot">
+
 Write about 1-2 paragraphs describing the purpose of your project.
 
 ## Getting Started <a name = "getting_started"></a>
