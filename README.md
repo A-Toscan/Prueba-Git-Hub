@@ -9,7 +9,7 @@
 
 ## About <a name = "about"></a>
 
-##see the <a rhef="https://a-toscan.github.io/Prueba-Git-Hub/" target="_blank">Demo</a>
+see the <a href="https://a-toscan.github.io/Prueba-Git-Hub/" target="_blank">Demo</a>
 
 ## Example of screenshot
 
